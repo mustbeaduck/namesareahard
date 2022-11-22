@@ -11,3 +11,5 @@
 
 <p>i feel like i should go back to posting memes</p>
 <video src = "https://user-images.githubusercontent.com/55796857/202487210-a67486d6-aae3-446d-b159-08f42831aacf.mp4"> </video>
+
+<p>i guess one could call fft more often by recording half a second and using old half second and new half second as new full second buffer increasing smothness and accuracy of the app</p>
